@@ -1,9 +1,14 @@
-<h1 align="left">Hi 👋, I'm Maksim Zhashkevych</h1>
-<h3 align="left">A passionate Software Engineer from Kyiv/Ukraine</h3>
+<h1 align="left">Maksim Zhashkevych (@zhaskevych) 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhashkevych" alt="zhashkevych" /> </p>
+- 🌁 Programmer, writer, designer
+- 💻 Core Stack: **Go, JS, Postgres**. Mainly focused on back-end development, but sometimes may do some front-end.
+- 🚀 Telegram Channel: https://t.me/zhashkevychdev
+- 🎬 YouTube Channel: https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ
+- 👔 Linkedin: @zhaskevych
+- 🎑 Instagram: @zhaskevych
+- 👨‍💻 Medium: @zhashkevych
 
-- 📫 If you have any interesting stuff to discuss: **zhashkevychmaksim@gmail.com | maksim@zhashkevych.com**
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhashkevych&show_icons=true" alt="zhashkevych" /></p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -14,6 +19,3 @@
 <a href="https://medium.com/@zhashkevych" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zhashkevych" height="30" width="40" /></a>
 
 <p></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhashkevych&show_icons=true" alt="zhashkevych" /></p>
-
