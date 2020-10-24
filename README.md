@@ -4,6 +4,7 @@
 - 💻 Core Stack: **Go, JS, Postgres**. Mainly focused on back-end development, but sometimes may do some front-end.
 - 🚀 Telegram Channel: https://t.me/zhashkevychdev
 - 🎬 YouTube Channel: https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ
+- 🖥 Website: https://zhashkevych.com/
 - 👔 Linkedin: @zhaskevych
 - 🎑 Instagram: @zhaskevych
 - 👨‍💻 Medium: @zhashkevych
