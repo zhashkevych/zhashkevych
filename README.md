@@ -5,9 +5,7 @@
 - 🚀 Telegram Channel: https://t.me/zhashkevychdev
 - 🎬 YouTube Channel: https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ
 - 🖥 Website: https://zhashkevych.com/
-- 👔 Linkedin: @zhaskevych
-- 🎑 Instagram: @zhaskevych
-- 👨‍💻 Medium: @zhashkevych
+- 👨‍💻 Linkedin / Instagram / Medium: @zhaskevych
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhashkevych&show_icons=true&hide_title=true" alt="zhashkevych" /></p>
 
