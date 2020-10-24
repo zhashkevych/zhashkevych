@@ -8,7 +8,7 @@
 - 🎑 Instagram: @zhaskevych
 - 👨‍💻 Medium: @zhashkevych
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhashkevych&show_icons=true" alt="zhashkevych" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhashkevych&show_icons=true&hide_title=true" alt="zhashkevych" /></p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
