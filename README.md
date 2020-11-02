@@ -1,6 +1,6 @@
 <h1 align="left">Maksim Zhashkevych (@zhashkevych) 👋</h1>
 
-- 🌁 Programmer, writer, designer
+- 🌁 Programmer, writer
 - 💻 Core Stack: **Go, JS, Postgres**. Mainly focused on back-end development, but sometimes may do some front-end.
 - 🚀 <a href="https://t.me/zhashkevychdev"  target="blank">Telegram Channel</a> | <a href="https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ"  target="blank">YouTube Channel</a> | <a href="https://zhashkevych.com/"  target="blank">Website</a>
 - 👨‍💻 Linkedin | Instagram | Medium: **@zhaskevych**
