@@ -1,4 +1,4 @@
-<h1 align="left">Maksim Zhashkevych (@zhaskevych) 👋</h1>
+<h1 align="left">Maksim Zhashkevych (@zhashkevych) 👋</h1>
 
 - 🌁 Programmer, writer, designer
 - 💻 Core Stack: **Go, JS, Postgres**. Mainly focused on back-end development, but sometimes may do some front-end.
