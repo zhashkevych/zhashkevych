@@ -1,6 +1,7 @@
 <h1 align="left">Maksim Zhashkevych (@zhashkevych) 👋</h1>
 
 - 💻 Core Stack: **Go, JavaScript**. Mainly focused on Backend & DevOps.
+- 🔥 Interested in Product Management, Marketing & UI/UX Design
 - 🚀 <a href="https://t.me/zhashkevychdev"  target="blank">Telegram Channel</a> | <a href="https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ"  target="blank">YouTube Channel</a> | <a href="https://zhashkevych.com/"  target="blank">Website</a>
 - 👨‍💻 Linkedin | Instagram | Medium: **@zhashkevych**
 
