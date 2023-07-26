@@ -1,4 +1,3 @@
-
 - 💻 Core Stack: **Go, JS/React**. Mainly focused on Backend & DevOps.
 - 🔥 Interested in Blockchain & DeFi
 
