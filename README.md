@@ -1,3 +1,3 @@
 - strong junior vibe coder.
-- core stack: **golang & js**.
+- core stack: **golang, js, python**.
 - interested in math, ai/ml, blockchain & financial markets.
